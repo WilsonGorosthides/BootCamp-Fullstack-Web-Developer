@@ -7,5 +7,8 @@
 ## Buscar Imagens Free
 * [Unsplash](https://unsplash.com/pt-br)
 * [Pexels](https://www.pexels.com/pt-br/)
+
 ## Fonts externas
 * [Google](https://fonts.google.com/)
+* [Fonte Awesome](https://fontawesome.com/)
+
