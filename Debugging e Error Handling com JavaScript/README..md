@@ -57,6 +57,26 @@ throw new TipoDeExcecao("mensagem de erro");</p>
 ## Finally
 <p>O bloco finally em Java é uma parte opcional de uma estrutura de tratamento de exceções que pode ser usada junto com try e catch. Ele é utilizado para executar um conjunto de instruções que devem ser executadas independentemente de uma exceção ser lançada ou não.</p>
 
+## O Objeto Error
+<br>
+<h3>Código: <h3>
+<img src="img/code.png" width="400" />
+<h3>Resultado: <h3>
+<img src="img/result.png" width="450" />
+<br>
+<h3>Código: <h3>
+<img src="img/code2.png" width="400" />
+<h3>Resultado: <h3>
+<img src="img/result2.png" width="450" />
+<br>
+<br>
+<br>
+<br>
+<h3>Testando no console: <h3>
+<img src="img/result3.png" width="400" />
+
+
+
 
 
 
